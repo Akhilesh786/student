@@ -6,7 +6,7 @@
     <div class="preloader ">
         <button class="th-btn preloaderCls">Cancel Preloader </button>
         <div class="preloader-inner">
-            <img src="assets/img/logo.svg" alt="img">
+            <img src="assets/img/logo.png" alt="img">
             <div class="heart-rate">
                 <img src="assets/img/shape/preloader.svg" alt="">
 
@@ -25,7 +25,7 @@
         <div class="th-menu-area text-center">
             <button class="th-menu-toggle"><i class="fal fa-times"></i></button>
             <div class="mobile-logo">
-                <a href="index"><img src="assets/img/logo.svg" alt="Medova "></a>
+                <a href="index"><img src="assets/img/logo.png" alt="BeatMonitor "></a>
             </div>
 
             <div class="th-mobile-menu">
@@ -53,7 +53,7 @@
                         <div class="col-auto">
                             <div class="header-logo">
                                 <div class="logo-bg" data-bg-src="assets/img/bg/logo_bg_4.png"></div>
-                                <a href="index"><img src="assets/img/logo.svg" alt="Medova "></a>
+                                <a href="index"><img src="assets/img/logo.png" alt="BeatMonitor "></a>
                             </div>
                         </div>
                         <div class="col-auto d-none d-lg-inline-block">
