@@ -1,0 +1,12 @@
+RewriteEngine On
+
+#Redirect 301 / https://ksmb.in/
+
+RewriteRule ^([^/.]+)$ $1.php [L]
+
+
+#service
+RewriteRule ^service/([^/]+)/?$ service.php?page=$1 [L,QSA]
+
+#service-details
+RewriteRule ^service-details/([^/]+)/?$ service-details.php?service_url=$1 [L,QSA]
