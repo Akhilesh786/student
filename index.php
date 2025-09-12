@@ -5,10 +5,8 @@
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <title>BeatMonitor - Health & Medical - home cardiology</title>
-    <meta name="author" content="themeholy">
     <meta name="description" content="BeatMonitor - Health & Medical">
     <meta name="keywords" content="BeatMonitor - Health & Medical">
-    <meta name="robots" content="INDEX,FOLLOW">
     
     <?php include 'header_meta.php'; ?>
     <!-- Mobile Specific Metas -->
@@ -17,7 +15,6 @@
     <!-- Favicons - Place favicon.ico in the root directory -->
     <link rel="apple-touch-icon" sizes="57x57" href="assets/img/favicons/apple-icon-57x57.png">
     
-    <link rel="manifest" href="assets/img/favicons/manifest.json">
     <meta name="msapplication-TileColor" content="#ffffff">
     <meta name="msapplication-TileImage" content="assets/img/favicons/ms-icon-144x144.png">
     <meta name="theme-color" content="#ffffff">

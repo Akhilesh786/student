@@ -5,7 +5,6 @@
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <title>BeatMonitor - Health & Medical </title>
-    <meta name="author" content="themeholy">
     <?php 
     error_reporting(0);
 	     include 'header_meta.php'; 

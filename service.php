@@ -5,10 +5,7 @@
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <title>BeatMonitor - Health & Medical - All Services</title>
-    <meta name="author" content="themeholy">
-    <meta name="description" content="BeatMonitor - Health & Medical">
-    <meta name="keywords" content="BeatMonitor - Health & Medical">
-    <meta name="robots" content="INDEX,FOLLOW">
+
     <?php include 'header_meta.php'; ?>
     <!-- Mobile Specific Metas -->
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
